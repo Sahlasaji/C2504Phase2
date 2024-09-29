@@ -1,0 +1,13 @@
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\bin\Debug\BirdsApp.exe.config
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\bin\Debug\BirdsApp.exe
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\bin\Debug\BirdsApp.pdb
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.csproj.AssemblyReference.cache
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.Crow.resources
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.Duck.resources
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.MainPageForm.resources
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.Peacock.resources
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.Properties.Resources.resources
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.csproj.GenerateResource.cache
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.csproj.CoreCompileInputs.cache
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.exe
+C:\Users\2021486\source\repos\BirdsApp\BirdsApp\obj\Debug\BirdsApp.pdb
