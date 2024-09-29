@@ -1,0 +1,18 @@
+﻿<Window x:Class="Example13Project.SquareCalcWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Example13Project"
+        mc:Ignorable="d"
+        Title="SquareCalcWindow" Height="450" Width="800" Closing="Window_Closing">
+    <Canvas>
+        <TextBlock x:Name="lblNumber1" HorizontalAlignment="Left" Height="31" Margin="126,67,0,0" TextWrapping="Wrap" Text="Number1" VerticalAlignment="Top" Width="121"/>
+        <TextBlock  x:Name="lblResult" HorizontalAlignment="Left" Margin="126,129,0,0" TextWrapping="Wrap" Text="Result" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNumber1" HorizontalAlignment="Left" Height="24" Margin="312,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="127"/>
+        <TextBox  x:Name="txtResult" HorizontalAlignment="Left" Height="23" Margin="312,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="127"/>
+        <Button x:Name="btnSquareCalc" Content="Square" HorizontalAlignment="Left" Margin="186,217,0,0" VerticalAlignment="Top" Width="76" Click="btnSquare_Click"/>
+        <Button x:Name="btnCube" Content="Cube" HorizontalAlignment="Left" Margin="328,217,0,0" VerticalAlignment="Top" Width="73" Click="btnCube_Click"/>
+
+    </Canvas>
+</Window>
