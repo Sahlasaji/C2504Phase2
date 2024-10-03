@@ -1,0 +1,17 @@
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\bin\Debug\WpfEditor.exe.config
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\bin\Debug\WpfEditor.exe
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\bin\Debug\WpfEditor.pdb
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor.csproj.AssemblyReference.cache
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\Editor.g.cs
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\MainWindow.g.cs
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\App.g.cs
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor_MarkupCompile.cache
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor_MarkupCompile.lref
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\Editor.baml
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\MainWindow.baml
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor.g.resources
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor.Properties.Resources.resources
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor.csproj.GenerateResource.cache
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor.csproj.CoreCompileInputs.cache
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor.exe
+C:\Users\2021486\source\repos\WpfEditor\WpfEditor\obj\Debug\WpfEditor.pdb

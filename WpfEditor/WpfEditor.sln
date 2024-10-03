@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfEditor", "WpfEditor\WpfEditor.csproj", "{513D256F-A05F-455F-BF9F-1B198296AFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorProject", "EditorProject\EditorProject.csproj", "{5F2EE458-C19E-4777-9153-3949268CBBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513D256F-A05F-455F-BF9F-1B198296AFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513D256F-A05F-455F-BF9F-1B198296AFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513D256F-A05F-455F-BF9F-1B198296AFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513D256F-A05F-455F-BF9F-1B198296AFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2EE458-C19E-4777-9153-3949268CBBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2EE458-C19E-4777-9153-3949268CBBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2EE458-C19E-4777-9153-3949268CBBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2EE458-C19E-4777-9153-3949268CBBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0159EF1-51BB-4DF2-A814-01C0DFB9160E}
+	EndGlobalSection
+EndGlobal
