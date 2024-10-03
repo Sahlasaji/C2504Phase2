@@ -1,0 +1,38 @@
+﻿<Window x:Class="ItenaryProject.NewItenary"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ItenaryProject"
+        mc:Ignorable="d"
+        Title="NewItenary" Height="450" Width="800" Closing="Window_Closing">
+    <Grid  Background="SeaGreen">
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition />
+            <RowDefinition/>
+            <RowDefinition />
+            <RowDefinition/>
+            <RowDefinition />
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock  Grid.Row="0" Grid.Column="0" TextWrapping="Wrap" RenderTransformOrigin="0.446,-0.735" HorizontalAlignment="Left" VerticalAlignment="Center"><Run Text="Id"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="txtId"  Text="{Binding NewItenary.Id}"   Grid.Row="0" Grid.Column="1" TextWrapping="Wrap"  HorizontalAlignment="Left" Height="36" VerticalAlignment="Bottom" Margin="0,0,0,36" Width="273" />
+        <TextBlock  Grid.Row="1" Grid.Column="0" TextWrapping="Wrap" RenderTransformOrigin="0.446,-0.735" HorizontalAlignment="Left" VerticalAlignment="Center"><Run Text="Time"/><LineBreak/><Run/></TextBlock>
+        <TextBox x:Name="txtTime"  Text="{Binding NewItenary.Name}" Grid.Column="1" TextWrapping="Wrap"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="37" Margin="0,72,0,0" Grid.RowSpan="2" Width="273" />
+        <TextBlock  Grid.Row="2" Grid.Column="0" TextWrapping="Wrap" Text="Itenary"  RenderTransformOrigin="0.481,-0.029" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtItenary"  Text="{Binding NewItenary.ItenaryName}"  Grid.Row="2" Grid.Column="1" TextWrapping="Wrap"   HorizontalAlignment="Left" VerticalAlignment="Top" Height="36" Width="273"/>
+        <TextBlock  Grid.Row="3" Grid.Column="0"  TextWrapping="Wrap" Text="About" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtAbout"  Text="{Binding NewItenary.About}"  Grid.Row="2" Grid.Column="1" TextWrapping="Wrap"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="42" Margin="0,72,0,0" Grid.RowSpan="2" Width="273"/>
+        <TextBlock  Grid.Row="4" Grid.Column="0" TextWrapping="Wrap" Text="Price" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtPrice"  Text="{Binding NewItenary.Price}" Grid.Row="3" Grid.Column="1" TextWrapping="Wrap"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="37" Margin="0,72,0,0" Grid.RowSpan="2" Width="273"/>
+        <Button Content="Create Itenary" Command="{Binding CreateCommand}"  Grid.Row="5" Grid.Column="0"  RenderTransformOrigin="0.543,1.129" HorizontalAlignment="Left" Height="24" VerticalAlignment="Center" Width="142"/>
+
+
+    </Grid>
+</Window>
